@@ -33,3 +33,7 @@ A Collection of Spines Taken using a Printer Scanner.
 
 ### The Remarried Empress
 > [Volume 1 - 9798400900051](https://github.com/SamJones04/MangaSpines/blob/main/images/The%20Remarried%20Empress%20-%201%20-%209798400900051.jpg)<br>
+
+### That Time I got Reincarnated as a Slime
+> [Volume 1 - 9781632365064](https://github.com/SamJones04/MangaSpines/blob/main/images/Reincarnated%20as%20a%20Slime%20-%201%20-%209781632365064.jpg)<br>
+
