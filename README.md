@@ -37,3 +37,10 @@ A Collection of Spines Taken using a Printer Scanner.
 ### That Time I got Reincarnated as a Slime
 > [Volume 1 - 9781632365064](https://github.com/SamJones04/MangaSpines/blob/main/images/Reincarnated%20as%20a%20Slime%20-%201%20-%209781632365064.jpg)<br>
 
+### Farming Life in Another World 
+> [Volume 1 - 9781642730852](https://github.com/SamJones04/MangaSpines/blob/main/images/Farming%20Life%20-%201%20-%209781642730852.jpg)<br>
+> [Volume 2 - 9781642731026](https://github.com/SamJones04/MangaSpines/blob/main/images/Farming%20Life%20-%202%20-%209781642731026.jpg)<br>
+> [Volume 3 - 9781642731262](https://github.com/SamJones04/MangaSpines/blob/main/images/Farming%20Life%20-%203%20-%209781642731262.jpg)<br>
+> [Volume 4 - 9781642731279](https://github.com/SamJones04/MangaSpines/blob/main/images/Farming%20Life%20-%204%20-%209781642731279.jpg)<br>
+> [Volume 5 - 9781642731682](https://github.com/SamJones04/MangaSpines/blob/main/images/Farming%20Life%20-%205%20-%209781642731682.jpg)<br>
+> [Volume 6 - 9781642731699](https://github.com/SamJones04/MangaSpines/blob/main/images/Farming%20Life%20-%206%20-%209781642731699.jpg)<br>
