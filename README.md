@@ -27,3 +27,6 @@ A Collection of Spines Taken using a Printer Scanner.
 > [Volume 1 - 9781421597218](https://github.com/SamJones04/MangaSpines/blob/main/images/Children%20of%20the%20Whales%20-%201%20-%209781421597218.jpg)<br>
 > [Volume 2 - 9781421597225](https://github.com/SamJones04/MangaSpines/blob/main/images/Children%20of%20the%20Whales%20-%202%20-%209781421597225.jpg)<br>
 > [Volume 3 - 9781421597232](https://github.com/SamJones04/MangaSpines/blob/main/images/Children%20of%20the%20Whales%20-%203%20-%209781421597232.jpg)<br>
+
+### Tomb Raider King
+> [Volume 1 - 9798400900075](https://github.com/SamJones04/MangaSpines/blob/main/images/Tomb%20Raider%20King%20-%201%20-%209798400900075.jpg)<br>
