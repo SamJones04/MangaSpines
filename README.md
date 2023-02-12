@@ -1,6 +1,22 @@
 # MangaSpines
 A Collection of Spines Taken using a Printer Scanner.
 
+
+| List | 
+| --- | 
+| [Vagabond (VIZBIG)](https://github.com/SamJones04/MangaSpines#vagabond-vizbig) | 
+| [Neon Genesis Evangelion](https://github.com/SamJones04/MangaSpines#neon-genesis-evangelion) | 
+| [I Shall Survive Using Potions (LN)](https://github.com/SamJones04/MangaSpines#neon-genesis-evangelion) | 
+| [Crazy Food Truck](https://github.com/SamJones04/MangaSpines#crazy-food-truck) | 
+| [Children of the Whales](https://github.com/SamJones04/MangaSpines#children-of-the-whales) | 
+| [Tomb Raider King](https://github.com/SamJones04/MangaSpines#tomb-raider-king) | 
+| [The Remarried Empress](https://github.com/SamJones04/MangaSpines#the-remarried-empress) | 
+| [That Time I got Reincarnated as a Slime](https://github.com/SamJones04/MangaSpines#that-time-i-got-reincarnated-as-a-slime) | 
+| [Farming Life in Another World](https://github.com/SamJones04/MangaSpines#farming-life-in-another-world) | 
+
+
+
+
 ### Vagabond (VIZBIG)
 > [Volume 1 - 9781421520544](https://github.com/SamJones04/MangaSpines/blob/main/images/Vagabond%20-%201%20-%209781421520544.jpg)<br>
 > [Volume 2 - 9781421522449](https://github.com/SamJones04/MangaSpines/blob/main/images/Vagabond%20-%202%20-%209781421522449.jpg)<br>
