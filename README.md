@@ -22,3 +22,8 @@ A Collection of Spines Taken using a Printer Scanner.
 ### Crazy Food Truck
 > [Volume 1 - 9781974727292](https://github.com/SamJones04/MangaSpines/blob/main/images/Crazy%20Food%20Truck%20-%201%20-%209781974727292.jpg)<br>
 > [Volume 2 - 9781974730124](https://github.com/SamJones04/MangaSpines/blob/main/images/Crazy%20Food%20Truck%20-%202%20-%209781974730124.jpg)<br>
+
+### Children of the Whales
+> [Volume 1 - 9781421597218](https://github.com/SamJones04/MangaSpines/blob/main/images/Children%20of%20the%20Whales%20-%201%20-%209781421597218.jpg)<br>
+> [Volume 2 - 9781421597225](https://github.com/SamJones04/MangaSpines/blob/main/images/Children%20of%20the%20Whales%20-%202%20-%209781421597225.jpg)<br>
+> [Volume 3 - 9781421597232](https://github.com/SamJones04/MangaSpines/blob/main/images/Children%20of%20the%20Whales%20-%203%20-%209781421597232.jpg)<br>
