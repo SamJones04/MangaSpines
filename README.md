@@ -30,3 +30,6 @@ A Collection of Spines Taken using a Printer Scanner.
 
 ### Tomb Raider King
 > [Volume 1 - 9798400900075](https://github.com/SamJones04/MangaSpines/blob/main/images/Tomb%20Raider%20King%20-%201%20-%209798400900075.jpg)<br>
+
+### The Remarried Empress
+> [Volume 1 - 9798400900051](https://github.com/SamJones04/MangaSpines/blob/main/images/The%20Remarried%20Empress%20-%201%20-%209798400900051.jpg)<br>
