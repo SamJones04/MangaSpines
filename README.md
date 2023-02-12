@@ -6,7 +6,7 @@ A Collection of Spines Taken using a Printer Scanner.
 | --- | 
 | [Vagabond (VIZBIG)](https://github.com/SamJones04/MangaSpines#vagabond-vizbig) | 
 | [Neon Genesis Evangelion](https://github.com/SamJones04/MangaSpines#neon-genesis-evangelion) | 
-| [I Shall Survive Using Potions (LN)](https://github.com/SamJones04/MangaSpines#i-shall-survive-using-potions) | 
+| [I Shall Survive Using Potions (LN)](https://github.com/SamJones04/MangaSpines#i-shall-survive-using-potions-ln) | 
 | [Crazy Food Truck](https://github.com/SamJones04/MangaSpines#crazy-food-truck) | 
 | [Children of the Whales](https://github.com/SamJones04/MangaSpines#children-of-the-whales) | 
 | [Tomb Raider King](https://github.com/SamJones04/MangaSpines#tomb-raider-king) | 
