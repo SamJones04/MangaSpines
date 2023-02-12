@@ -18,3 +18,7 @@ A Collection of Spines Taken using a Printer Scanner.
 > [Volume 5 - 9781718371941](https://github.com/SamJones04/MangaSpines/blob/main/images/Survive%20Using%20Potions%20-%205%20-%209781718371941.jpg)<br>
 > [Volume 6 - 9781718371958](https://github.com/SamJones04/MangaSpines/blob/main/images/Survive%20Using%20Potions%20-%206%20-%209781718371958.jpg)<br>
 > [Volume 7 - 9781718371965](https://github.com/SamJones04/MangaSpines/blob/main/images/Survive%20Using%20Potions%20-%207%20-%209781718371965.jpg)<br>
+
+### Crazy Food Truck
+> [Volume 1 - 9781974727292](https://github.com/SamJones04/MangaSpines/blob/main/images/Crazy%20Food%20Truck%20-%201%20-%209781974727292.jpg)<br>
+> [Volume 2 - 9781974730124](https://github.com/SamJones04/MangaSpines/blob/main/images/Crazy%20Food%20Truck%20-%202%20-%209781974730124.jpg)<br>
