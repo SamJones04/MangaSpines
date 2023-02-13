@@ -1,5 +1,5 @@
 # MangaSpines
-A Collection of Spines Taken using a Printer Scanner.
+A Collection of Spines Taken using a Scanner.
 
 
 | List | 
