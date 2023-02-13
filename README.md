@@ -13,7 +13,7 @@ A Collection of Spines Taken using a Scanner.
 | [The Remarried Empress](https://github.com/SamJones04/MangaSpines#the-remarried-empress) | 
 | [That Time I got Reincarnated as a Slime](https://github.com/SamJones04/MangaSpines#that-time-i-got-reincarnated-as-a-slime) | 
 | [Farming Life in Another World](https://github.com/SamJones04/MangaSpines#farming-life-in-another-world) | 
-
+| [So I'm a Spider, So What?]() | 
 
 
 
@@ -60,3 +60,10 @@ A Collection of Spines Taken using a Scanner.
 > [Volume 4 - 9781642731279](https://github.com/SamJones04/MangaSpines/blob/main/images/Farming%20Life%20-%204%20-%209781642731279.jpg)<br>
 > [Volume 5 - 9781642731682](https://github.com/SamJones04/MangaSpines/blob/main/images/Farming%20Life%20-%205%20-%209781642731682.jpg)<br>
 > [Volume 6 - 9781642731699](https://github.com/SamJones04/MangaSpines/blob/main/images/Farming%20Life%20-%206%20-%209781642731699.jpg)<br>
+
+### So I'm a Spider, So What?
+> [Volume 1 - 9780316414197]()<br>
+> [Volume 3 - 9781975353360]()<br>
+> [Volume 4 - 9781975302092]()<br>
+> [Volume 5 - 9781975303501]()<br>
+> [Volume 6 - 9781975358266]()<br>
