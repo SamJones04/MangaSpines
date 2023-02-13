@@ -62,8 +62,8 @@ A Collection of Spines Taken using a Scanner.
 > [Volume 6 - 9781642731699](https://github.com/SamJones04/MangaSpines/blob/main/images/Farming%20Life%20-%206%20-%209781642731699.jpg)<br>
 
 ### So I'm a Spider, So What?
-> [Volume 1 - 9780316414197]()<br>
-> [Volume 3 - 9781975353360]()<br>
-> [Volume 4 - 9781975302092]()<br>
-> [Volume 5 - 9781975303501]()<br>
-> [Volume 6 - 9781975358266]()<br>
+> [Volume 1 - 9780316414197](https://github.com/SamJones04/MangaSpines/blob/main/images/So%20I'm%20a%20Spider%20-%201%20-%209780316414197.jpg)<br>
+> [Volume 3 - 9781975353360](https://github.com/SamJones04/MangaSpines/blob/main/images/So%20I'm%20a%20Spider%20-%203%20-%209781975353360.jpg)<br>
+> [Volume 4 - 9781975302092](https://github.com/SamJones04/MangaSpines/blob/main/images/So%20I'm%20a%20Spider%20-%204%20-%209781975302092.jpg)<br>
+> [Volume 5 - 9781975303501](https://github.com/SamJones04/MangaSpines/blob/main/images/So%20I'm%20a%20Spider%20-%205%20-%209781975303501.jpg)<br>
+> [Volume 6 - 9781975358266](https://github.com/SamJones04/MangaSpines/blob/main/images/So%20I'm%20a%20Spider%20-%206%20-%209781975358266.jpg)<br>
