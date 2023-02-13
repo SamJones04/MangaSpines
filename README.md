@@ -2,8 +2,11 @@
 A Collection of Spines Taken using a Scanner.
 
 
-| List | 
-| --- | 
+> Thinking of Contributing? Please Read the Contribution Requirements [**here**]()<br>
+
+
+| Full List |
+| --- |
 | [Vagabond (VIZBIG)](https://github.com/SamJones04/MangaSpines#vagabond-vizbig) | 
 | [Neon Genesis Evangelion](https://github.com/SamJones04/MangaSpines#neon-genesis-evangelion) | 
 | [I Shall Survive Using Potions (LN)](https://github.com/SamJones04/MangaSpines#i-shall-survive-using-potions-ln) | 
