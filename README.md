@@ -25,6 +25,9 @@ A Collection of Spines Taken using a Scanner.
 | [ATOM: The Beginning](https://github.com/SamJones04/MangaSpines#atom-the-beginning) |
 | [Please Don't Toy with me, Miss Nagatoro](https://github.com/SamJones04/MangaSpines#please-dont-toy-with-me-miss-nagatoro) |
 | [your name](https://github.com/SamJones04/MangaSpines/blob/main/README.md#your-name) |
+| [Arifureta: From Commonplace to World's Strongest](https://github.com/SamJones04/MangaSpines/blob/main/README.md#arifureta-from-commonplace-to-worlds-strongest) |
+
+
 
 
 ### Vagabond (VIZBIG)
