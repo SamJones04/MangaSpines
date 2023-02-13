@@ -26,7 +26,7 @@ A Collection of Spines Taken using a Scanner.
 | [Please Don't Toy with me, Miss Nagatoro](https://github.com/SamJones04/MangaSpines#please-dont-toy-with-me-miss-nagatoro) |
 | [your name](https://github.com/SamJones04/MangaSpines/blob/main/README.md#your-name) |
 | [Arifureta: From Commonplace to World's Strongest](https://github.com/SamJones04/MangaSpines/blob/main/README.md#arifureta-from-commonplace-to-worlds-strongest) |
-
+| [Berserk](https://github.com/SamJones04/MangaSpines/blob/main/README.md#berserk) |
 
 
 
@@ -163,6 +163,9 @@ A Collection of Spines Taken using a Scanner.
 > [Volume 1 - 9781645055358](https://github.com/SamJones04/MangaSpines/blob/main/images/Adachi%20Shimamura%20-%201%20-%209781645055358.jpg)<br>
 
 
+### Berserk
+> [Volume 1 - 9781593070205]()<br>
+
 ### your name
 > [Volume 1 - 9780316558556](https://github.com/SamJones04/MangaSpines/blob/main/images/your%20name%20-%201%20-%209780316558556.jpg)<br>
 > [Volume 2 - 9780316412889](https://github.com/SamJones04/MangaSpines/blob/main/images/your%20name%20-%202%20-%209780316412889.jpg)<br>
@@ -176,3 +179,7 @@ A Collection of Spines Taken using a Scanner.
 > [Volume 6 - 9781642751116](https://github.com/SamJones04/MangaSpines/blob/main/images/Arifureta%20-%206%20-%209781642751116.jpg)<br>
 > [Volume 7 - 9781642757361](https://github.com/SamJones04/MangaSpines/blob/main/images/Arifureta%20-%207%20-%209781642757361.jpg)<br>
 
+
+### Berserk
+> [Volume 1 - 9781593070205](https://github.com/SamJones04/MangaSpines/blob/main/images/Berserk%20-%201%20-%209781593070205.jpg)<br>
+> [Volume 2 - 9781593070212](https://github.com/SamJones04/MangaSpines/blob/main/images/Berserk%20-%202%20-%209781593070212.jpg)<br>
