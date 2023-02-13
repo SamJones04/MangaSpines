@@ -20,11 +20,10 @@ A Collection of Spines Taken using a Scanner.
 | [Bakemonogatari](https://github.com/SamJones04/MangaSpines/blob/main/README.md#bakemonogatari) |
 | [Komi Can't Communicate](https://github.com/SamJones04/MangaSpines/blob/main/README.md#komi-cant-communicate) |
 | [I'm Quitting Heroing](https://github.com/SamJones04/MangaSpines/blob/main/README.md#im-quitting-heroing) |
-
-
-
-
-
+| [Adachi and Shimamura (LN)](https://github.com/SamJones04/MangaSpines/blob/main/README.md#adachi-and-shimamura-ln) |
+| [Chronicles of an Aristocrat Reborn in Another World](https://github.com/SamJones04/MangaSpines#chronicles-of-an-aristocrat-reborn-in-another-world) |
+| [ATOM: The Beginning](https://github.com/SamJones04/MangaSpines#atom-the-beginning) |
+| [Please Don't Toy with me, Miss Nagatoro](https://github.com/SamJones04/MangaSpines#please-dont-toy-with-me-miss-nagatoro) |
 
 ### Vagabond (VIZBIG)
 > [Volume 1 - 9781421520544](https://github.com/SamJones04/MangaSpines/blob/main/images/Vagabond%20-%201%20-%209781421520544.jpg)<br>
