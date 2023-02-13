@@ -85,3 +85,25 @@ A Collection of Spines Taken using a Scanner.
 > [Volumes 13, 14, 15 - 9781421554983](https://github.com/SamJones04/MangaSpines/blob/main/images/One%20Piece%20-%2013%2C%2014%2C%2015%20-%209781421554983.jpg)<br>
 > [Volumes 16, 17, 18 - 9781441552983](https://github.com/SamJones04/MangaSpines/blob/main/images/One%20Piece%20-%2016%2C%2017%2C%2018%20-%209781441552983.jpg)<br>
 
+### Bakemonogatari
+> [Volume 1 - 9781947194977](https://github.com/SamJones04/MangaSpines/blob/main/images/Bakemonogatari%20-%201%20-%209781947194977.jpg)<br>
+> [Volume 2 - 9781949980028](https://github.com/SamJones04/MangaSpines/blob/main/images/Bakemonogatari%20-%202%20-%209781949980028.jpg)<br>
+> [Volume 3 - 9781949980165](https://github.com/SamJones04/MangaSpines/blob/main/images/Bakemonogatari%20-%203%20-%209781949980165.jpg)<br>
+> [Volume 4 - 9781949980400](https://github.com/SamJones04/MangaSpines/blob/main/images/Bakemonogatari%20-%204%20-%209781949980400.jpg)<br>
+> [Volume 5 - 9781949980509](https://github.com/SamJones04/MangaSpines/blob/main/images/Bakemonogatari%20-%205%20-%209781949980509.jpg)<br>
+
+### Blue Exorcist
+> [Volume 1 - 9781421540320](https://github.com/SamJones04/MangaSpines/blob/main/images/Blue%20Exorcist%20-%201%20-%209781421540320.jpg)<br>
+> [Volume 2 - 9781421540320](https://github.com/SamJones04/MangaSpines/blob/main/images/Blue%20Exorcist%20-%202%20-%209781421540320.jpg)<br>
+> [Volume 3 - 9781421540344](https://github.com/SamJones04/MangaSpines/blob/main/images/Blue%20Exorcist%20-%203%20-%209781421540344.jpg)<br>
+> [Volume 4 - 9781421540474](https://github.com/SamJones04/MangaSpines/blob/main/images/Blue%20Exorcist%20-%204%20-%209781421540474.jpg)<br>
+> [Volume 5 - 9781421540764](https://github.com/SamJones04/MangaSpines/blob/main/images/Blue%20Exorcist%20-%205%20-%209781421540764.jpg)<br>
+> [Volume 6 - 9781421541747](https://github.com/SamJones04/MangaSpines/blob/main/images/Blue%20Exorcist%20-%206%20-%209781421541747.jpg)<br>
+
+### Komi Can't Communicate
+> [Volume 1 - 9781974707126](https://github.com/SamJones04/MangaSpines/blob/main/images/Komi%20Can't%20Communicate%20-%201%20-%209781974707126.jpg)<br>
+> [Volume 2 - 9781974707133](https://github.com/SamJones04/MangaSpines/blob/main/images/Komi%20Can't%20Communicate%20-%202%20-%209781974707133.jpg)<br>
+> [Volume 3 - 9781974707140](https://github.com/SamJones04/MangaSpines/blob/main/images/Komi%20Can't%20Communicate%20-%203%20-%209781974707140.jpg)<br>
+> [Volume 4 - 9781974707157](https://github.com/SamJones04/MangaSpines/blob/main/images/Komi%20Can't%20Communicate%20-%204%20-%209781974707157.jpg)<br>
+> [Volume 5 - 9781974707164](https://github.com/SamJones04/MangaSpines/blob/main/images/Komi%20Can't%20Communicate%20-%205%20-%209781974707164.jpg)<br>
+
