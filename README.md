@@ -77,10 +77,10 @@ A Collection of Spines Taken using a Scanner.
 > [Volume 6 - 9781974734009](https://github.com/SamJones04/MangaSpines/blob/main/images/Frieren%20-%206%20-%209781974734009.jpg)<br>
 
 ### One Piece (Omnibus)
-> [Volumes 1, 2, 3 - ]()<br>
-> [Volumes 4, 5, 6 - ]()<br>
-> [Volumes 7, 8, 9 - ]()<br>
-> [Volumes 10, 11, 12 - ]()<br>
-> [Volumes 13, 14, 15 - ]()<br>
-> [Volumes 16, 17, 18 - ]()<br>
+> [Volumes 1, 2, 3 - 9781421536255](https://github.com/SamJones04/MangaSpines/blob/main/images/One%20Piece%20-%201%2C%202%2C%203%20-%209781421536255.jpg)<br>
+> [Volumes 4, 5, 6 - 9781421536262](https://github.com/SamJones04/MangaSpines/blob/main/images/One%20Piece%20-%204%2C%205%2C%206%20-%209781421536262.jpg)<br>
+> [Volumes 7, 8, 9 - 9781421536279](https://github.com/SamJones04/MangaSpines/blob/main/images/One%20Piece%20-%207%2C%208%2C%209%20-%209781421536279.jpg)<br>
+> [Volumes 10, 11, 12 - 9781421536286](https://github.com/SamJones04/MangaSpines/blob/main/images/One%20Piece%20-%2010%2C%2011%2C%2012%20-%209781421536286.jpg)<br>
+> [Volumes 13, 14, 15 - 9781421554983](https://github.com/SamJones04/MangaSpines/blob/main/images/One%20Piece%20-%2013%2C%2014%2C%2015%20-%209781421554983.jpg)<br>
+> [Volumes 16, 17, 18 - 9781441552983](https://github.com/SamJones04/MangaSpines/blob/main/images/One%20Piece%20-%2016%2C%2017%2C%2018%20-%209781441552983.jpg)<br>
 
