@@ -67,3 +67,20 @@ A Collection of Spines Taken using a Scanner.
 > [Volume 4 - 9781975302092](https://github.com/SamJones04/MangaSpines/blob/main/images/So%20I'm%20a%20Spider%20-%204%20-%209781975302092.jpg)<br>
 > [Volume 5 - 9781975303501](https://github.com/SamJones04/MangaSpines/blob/main/images/So%20I'm%20a%20Spider%20-%205%20-%209781975303501.jpg)<br>
 > [Volume 6 - 9781975358266](https://github.com/SamJones04/MangaSpines/blob/main/images/So%20I'm%20a%20Spider%20-%206%20-%209781975358266.jpg)<br>
+
+### Frieren: Beyond Journey's End
+> [Volume 1 - ]()<br>
+> [Volume 2 - ]()<br>
+> [Volume 3 - ]()<br>
+> [Volume 4 - ]()<br>
+> [Volume 5 - ]()<br>
+> [Volume 6 - ]()<br>
+
+### One Piece (Omnibus)
+> [Volumes 1, 2, 3 - ]()<br>
+> [Volumes 4, 5, 6 - ]()<br>
+> [Volumes 7, 8, 9 - ]()<br>
+> [Volumes 10, 11, 12 - ]()<br>
+> [Volumes 13, 14, 15 - ]()<br>
+> [Volumes 16, 17, 18 - ]()<br>
+
