@@ -2,7 +2,7 @@
 A Collection of Spines Taken using a Scanner.
 
 
-> Thinking of Contributing? Please Read the Contribution Requirements [**here**]()<br>
+> Thinking of Contributing? Please Read the Contribution Requirements [**here**](https://github.com/SamJones04/MangaSpines/blob/main/CONTRIBUTING.md)<br>
 
 
 | Full List |
