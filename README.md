@@ -163,3 +163,13 @@ A Collection of Spines Taken using a Scanner.
 ### your name
 > [Volume 1 - 9780316558556](https://github.com/SamJones04/MangaSpines/blob/main/images/your%20name%20-%201%20-%209780316558556.jpg)<br>
 > [Volume 2 - 9780316412889](https://github.com/SamJones04/MangaSpines/blob/main/images/your%20name%20-%202%20-%209780316412889.jpg)<br>
+
+
+### Arifureta: From Commonplace to World's Strongest 
+> [Volume 1 - 9781626927681](https://github.com/SamJones04/MangaSpines/blob/main/images/Arifureta%20-%201%20-%209781626927681.jpg)<br>
+> [Volume 2 - 9781626927803](https://github.com/SamJones04/MangaSpines/blob/main/images/Arifureta%20-%202%20-%209781626927803.jpg)<br>
+> [Volume 3 - 9781626928459](https://github.com/SamJones04/MangaSpines/blob/main/images/Arifureta%20-%203%20-%209781626928459.jpg)<br>
+> [Volume 5 - 9781642750171](https://github.com/SamJones04/MangaSpines/blob/main/images/Arifureta%20-%205%20-%209781642750171.jpg)<br>
+> [Volume 6 - 9781642751116](https://github.com/SamJones04/MangaSpines/blob/main/images/Arifureta%20-%206%20-%209781642751116.jpg)<br>
+> [Volume 7 - 9781642757361](https://github.com/SamJones04/MangaSpines/blob/main/images/Arifureta%20-%207%20-%209781642757361.jpg)<br>
+
