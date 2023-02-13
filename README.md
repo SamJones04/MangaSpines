@@ -19,6 +19,7 @@ A Collection of Spines Taken using a Scanner.
 | [Blue Exorcist](https://github.com/SamJones04/MangaSpines/blob/main/README.md#blue-exorcist) |
 | [Bakemonogatari](https://github.com/SamJones04/MangaSpines/blob/main/README.md#bakemonogatari) |
 | [Komi Can't Communicate](https://github.com/SamJones04/MangaSpines/blob/main/README.md#komi-cant-communicate) |
+| [Komi Can't Communicate](https://github.com/SamJones04/MangaSpines/blob/main/README.md#im-quitting-heroing) |
 
 
 ### Vagabond (VIZBIG)
@@ -110,3 +111,5 @@ A Collection of Spines Taken using a Scanner.
 > [Volume 4 - 9781974707157](https://github.com/SamJones04/MangaSpines/blob/main/images/Komi%20Can't%20Communicate%20-%204%20-%209781974707157.jpg)<br>
 > [Volume 5 - 9781974707164](https://github.com/SamJones04/MangaSpines/blob/main/images/Komi%20Can't%20Communicate%20-%205%20-%209781974707164.jpg)<br>
 
+### I'm Quitting Heroing
+> [Volume 1 - 9781975361815](https://github.com/SamJones04/MangaSpines/blob/main/images/Quitting%20Heroing%20-%201%20-%209781975361815.jpg)<br>
