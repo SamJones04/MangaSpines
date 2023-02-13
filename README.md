@@ -13,7 +13,7 @@ A Collection of Spines Taken using a Scanner.
 | [The Remarried Empress](https://github.com/SamJones04/MangaSpines#the-remarried-empress) | 
 | [That Time I got Reincarnated as a Slime](https://github.com/SamJones04/MangaSpines#that-time-i-got-reincarnated-as-a-slime) | 
 | [Farming Life in Another World](https://github.com/SamJones04/MangaSpines#farming-life-in-another-world) | 
-| [So I'm a Spider, So What?]() | 
+| [So I'm a Spider, So What?](https://github.com/SamJones04/MangaSpines/blob/main/README.md#so-im-a-spider-so-what) | 
 
 
 
