@@ -69,12 +69,12 @@ A Collection of Spines Taken using a Scanner.
 > [Volume 6 - 9781975358266](https://github.com/SamJones04/MangaSpines/blob/main/images/So%20I'm%20a%20Spider%20-%206%20-%209781975358266.jpg)<br>
 
 ### Frieren: Beyond Journey's End
-> [Volume 1 - ]()<br>
-> [Volume 2 - ]()<br>
-> [Volume 3 - ]()<br>
-> [Volume 4 - ]()<br>
-> [Volume 5 - ]()<br>
-> [Volume 6 - ]()<br>
+> [Volume 1 - 9781974725762](https://github.com/SamJones04/MangaSpines/blob/main/images/Frieren%20-%201%20-%209781974725762.jpg)<br>
+> [Volume 2 - 9781974727230](https://github.com/SamJones04/MangaSpines/blob/main/images/Frieren%20-%202%20-%209781974727230.jpg)<br>
+> [Volume 3 - 9781974727247](https://github.com/SamJones04/MangaSpines/blob/main/images/Frieren%20-%203%20-%209781974727247.jpg)<br>
+> [Volume 4 - 9781974727254](https://github.com/SamJones04/MangaSpines/blob/main/images/Frieren%20-%204%20-%209781974727254.jpg)<br>
+> [Volume 5 - 9781974730070](https://github.com/SamJones04/MangaSpines/blob/main/images/Frieren%20-%205%20-%209781974730070.jpg)<br>
+> [Volume 6 - 9781974734009](https://github.com/SamJones04/MangaSpines/blob/main/images/Frieren%20-%206%20-%209781974734009.jpg)<br>
 
 ### One Piece (Omnibus)
 > [Volumes 1, 2, 3 - ]()<br>
