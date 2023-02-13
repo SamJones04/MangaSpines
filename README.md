@@ -16,6 +16,9 @@ A Collection of Spines Taken using a Scanner.
 | [So I'm a Spider, So What?](https://github.com/SamJones04/MangaSpines/blob/main/README.md#so-im-a-spider-so-what) | 
 | [Frieren: Beyond Journey's End](https://github.com/SamJones04/MangaSpines#frieren-beyond-journeys-end) | 
 | [One Piece (Omnibus)](https://github.com/SamJones04/MangaSpines#one-piece-omnibus) | 
+| [Blue Exorcist](https://github.com/SamJones04/MangaSpines/blob/main/README.md#blue-exorcist) |
+| [Bakemonogatari](https://github.com/SamJones04/MangaSpines/blob/main/README.md#bakemonogatari) |
+| [Komi Can't Communicate](https://github.com/SamJones04/MangaSpines/blob/main/README.md#komi-cant-communicate) |
 
 
 ### Vagabond (VIZBIG)
