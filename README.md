@@ -19,7 +19,7 @@ A Collection of Spines Taken using a Scanner.
 | [Blue Exorcist](https://github.com/SamJones04/MangaSpines/blob/main/README.md#blue-exorcist) |
 | [Bakemonogatari](https://github.com/SamJones04/MangaSpines/blob/main/README.md#bakemonogatari) |
 | [Komi Can't Communicate](https://github.com/SamJones04/MangaSpines/blob/main/README.md#komi-cant-communicate) |
-| [Komi Can't Communicate](https://github.com/SamJones04/MangaSpines/blob/main/README.md#im-quitting-heroing) |
+| [I'm Quitting Heroing](https://github.com/SamJones04/MangaSpines/blob/main/README.md#im-quitting-heroing) |
 
 
 ### Vagabond (VIZBIG)
