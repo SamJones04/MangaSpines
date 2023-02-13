@@ -154,3 +154,6 @@ A Collection of Spines Taken using a Scanner.
 > [Volume 4 - 9781648275760](https://github.com/SamJones04/MangaSpines/blob/main/images/Aristocrat%20Reborn%20-%204%20-%209781648275760.jpg)<br>
 > [Volume 5 - 9781638582908](https://github.com/SamJones04/MangaSpines/blob/main/images/Aristocrat%20Reborn%20-%205%20-%209781638582908.jpg)<br>
 
+
+### Adachi and Shimamura (LN)
+> [Volume 1 - 9781645055358](https://github.com/SamJones04/MangaSpines/blob/main/images/Adachi%20Shimamura%20-%201%20-%209781645055358.jpg)<br>
