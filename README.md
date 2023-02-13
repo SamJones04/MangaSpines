@@ -147,3 +147,10 @@ A Collection of Spines Taken using a Scanner.
 > [Volume 1 - 9781787739574](https://github.com/SamJones04/MangaSpines/blob/main/images/ATOM%20-%201%20-%209781787739574.jpg)<br>
 > [Volume 2 - 9771787739582](https://github.com/SamJones04/MangaSpines/blob/main/images/ATOM%20-%202%20-%209771787739582.jpg)<br>
 
+
+### Chronicles of an Aristocrat Reborn in Another World
+> [Volume 2 - 9781648275623](https://github.com/SamJones04/MangaSpines/blob/main/images/Aristocrat%20Reborn%20-%202%20-%209781648275623.jpg)<br>
+> [Volume 3 - 9781648275661](https://github.com/SamJones04/MangaSpines/blob/main/images/Aristocrat%20Reborn%20-%203%20-%209781648275661.jpg)<br>
+> [Volume 4 - 9781648275760](https://github.com/SamJones04/MangaSpines/blob/main/images/Aristocrat%20Reborn%20-%204%20-%209781648275760.jpg)<br>
+> [Volume 5 - 9781638582908](https://github.com/SamJones04/MangaSpines/blob/main/images/Aristocrat%20Reborn%20-%205%20-%209781638582908.jpg)<br>
+
