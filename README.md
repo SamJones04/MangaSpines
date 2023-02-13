@@ -14,7 +14,8 @@ A Collection of Spines Taken using a Scanner.
 | [That Time I got Reincarnated as a Slime](https://github.com/SamJones04/MangaSpines#that-time-i-got-reincarnated-as-a-slime) | 
 | [Farming Life in Another World](https://github.com/SamJones04/MangaSpines#farming-life-in-another-world) | 
 | [So I'm a Spider, So What?](https://github.com/SamJones04/MangaSpines/blob/main/README.md#so-im-a-spider-so-what) | 
-
+| [Frieren: Beyond Journey's End](https://github.com/SamJones04/MangaSpines#frieren-beyond-journeys-end) | 
+| [One Piece (Omnibus)](https://github.com/SamJones04/MangaSpines#one-piece-omnibus) | 
 
 
 ### Vagabond (VIZBIG)
