@@ -9,4 +9,4 @@ assignees: ''
 
 ---
 
-> Please see [**CONTRIBUTION GUIDELINES**]() before Submitting
+> Please see [**CONTRIBUTION GUIDELINES**](https://github.com/SamJones04/MangaSpines/blob/main/CONTRIBUTING.md) and read the example submission and submission guidelines.
